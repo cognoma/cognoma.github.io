@@ -1,0 +1,6 @@
+{
+  "name": "Cognoma",
+  "tagline": "Putting machine learning in the hands of cancer biologists.",
+  "body": "### Welcome to Cognoma!\r\nThe cognoma application will eventually live here. Right now, development is happening at [cognoma on github](http://github.com/cognoma). If you'd like to contribute, pitch in there. If you'd like this website to say more, file a pull request against this repository! :)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
